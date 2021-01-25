@@ -51,7 +51,7 @@
                     <div class="body flexR">
                         <div class="flexR">
                             <div>
-                                <Avatar src="https://avatars.githubusercontent.com/u/15684637?s=400&u=c914acc69c1a9e199bfb3934691ab0f99f0f3d2f&v=4" size="large"/>
+                                <Avatar src="https://portrait.gitee.com/uploads/avatars/user/190/572484_hello-C_1611304799.png!avatar200" size="large"/>
                             </div>
                             <div class="flexC">
                                 <span>
@@ -64,7 +64,7 @@
                         </div>
                         <div class="flexR">
                             <div>
-                                <Avatar src="https://avatars.githubusercontent.com/u/15684637?s=400&u=c914acc69c1a9e199bfb3934691ab0f99f0f3d2f&v=4" size="large"/>
+                                <Avatar src="https://portrait.gitee.com/uploads/avatars/user/190/572484_hello-C_1611304799.png!avatar200" size="large"/>
                             </div>
                             <div class="flexC">
                                 <span>
@@ -77,7 +77,7 @@
                         </div>
                         <div class="flexR">
                             <div>
-                                <Avatar src="https://avatars.githubusercontent.com/u/15684637?s=400&u=c914acc69c1a9e199bfb3934691ab0f99f0f3d2f&v=4" size="large"/>
+                                <Avatar src="https://portrait.gitee.com/uploads/avatars/user/190/572484_hello-C_1611304799.png!avatar200" size="large"/>
                             </div>
                             <div class="flexC">
                                 <span>
@@ -156,7 +156,7 @@
                         <div class="flexR">
                             <div class="flexR">
                                 <div>
-                                    <Avatar src="https://avatars.githubusercontent.com/u/15684637?s=400&u=c914acc69c1a9e199bfb3934691ab0f99f0f3d2f&v=4"/>
+                                    <Avatar src="https://portrait.gitee.com/uploads/avatars/user/190/572484_hello-C_1611304799.png!avatar200"/>
                                 </div>
                                 <div class="flexC">
                                     <span>
@@ -172,7 +172,7 @@
                         <div class="flexR">
                             <div class="flexR">
                                 <div>
-                                    <Avatar src="https://avatars.githubusercontent.com/u/15684637?s=400&u=c914acc69c1a9e199bfb3934691ab0f99f0f3d2f&v=4"/>
+                                    <Avatar src="https://portrait.gitee.com/uploads/avatars/user/190/572484_hello-C_1611304799.png!avatar200"/>
                                 </div>
                                 <div class="flexC">
                                     <span>
@@ -188,7 +188,7 @@
                         <div class="flexR">
                             <div class="flexR">
                                 <div>
-                                    <Avatar src="https://avatars.githubusercontent.com/u/15684637?s=400&u=c914acc69c1a9e199bfb3934691ab0f99f0f3d2f&v=4"/>
+                                    <Avatar src="https://portrait.gitee.com/uploads/avatars/user/190/572484_hello-C_1611304799.png!avatar200"/>
                                 </div>
                                 <div class="flexC">
                                     <span>
@@ -214,7 +214,7 @@
         name: "workplace",
         data() {
             return {
-                avatarImg: 'https://avatars.githubusercontent.com/u/15684637?s=400&u=c914acc69c1a9e199bfb3934691ab0f99f0f3d2f&v=4',
+                avatarImg: 'https://portrait.gitee.com/uploads/avatars/user/190/572484_hello-C_1611304799.png!avatar200',
                 myProjectData: [
                     {
                         name_en: 'CMS Admin Pro',

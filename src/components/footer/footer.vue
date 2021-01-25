@@ -5,7 +5,7 @@
           
         </div>
         <div class="flexR">
-            <span>Copyright © {{year}} cms-admin Pro</span>
+            <span>Copyright © {{year}} CMS-Admin Pro</span>
         </div>
     </div>
 

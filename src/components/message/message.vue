@@ -122,7 +122,7 @@ export default {
                 {
                     title: '曾小晖 在一篇文章中 @你',
                     time: '11-08 15:33',
-                    img: 'https://avatars.githubusercontent.com/u/15684637?s=400&u=c914acc69c1a9e199bfb3934691ab0f99f0f3d2f&v=4'
+                    img: 'https://portrait.gitee.com/uploads/avatars/user/190/572484_hello-C_1611304799.png!avatar200'
                 }
             ],
             db: [

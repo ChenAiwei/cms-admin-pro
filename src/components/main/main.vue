@@ -101,7 +101,7 @@
                         <span>
                             <Dropdown @on-click="personalSettings">
                             <a href="javascript:void(0)" style="color: #515A6E;">
-                                <img src="https://avatars.githubusercontent.com/u/15684637?s=400&u=c914acc69c1a9e199bfb3934691ab0f99f0f3d2f&v=4" alt="" class="ivu-avatar ivu-avatar-small"
+                                <img src="https://portrait.gitee.com/uploads/avatars/user/190/572484_hello-C_1611304799.png!avatar200" alt="" class="ivu-avatar ivu-avatar-small"
                                      style="margin-right: 5px">
                                 {{$store.getters.userData.userName}}
                             </a>

@@ -275,7 +275,7 @@
         }
 
         .demo-2 .large-header {
-            background-image: url('../../assets/login/login-bg-1.jpg');
+            background-image: url('../../assets/login/login-bg.jpg');
             background-position: center bottom;
         }
 
